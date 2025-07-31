@@ -1,1 +1,1 @@
-# generator_qr
+# organizace_VYS
